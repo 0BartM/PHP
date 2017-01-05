@@ -1,0 +1,50 @@
+html {
+    font-family: arial;
+    background-color:#333333;
+}
+
+#video {
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+    margin-left: 2%;
+}
+
+h2 {
+    text-align: center;
+}
+section, footer {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 1%;
+    padding: 2%;
+}
+
+#section1 {
+     text-align: center;
+    background-color: #c43f2b;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin: 1%;
+}
+
+header {
+    margin-top: 50%;
+    margin-bottom: 1%;
+    background-color:black;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+ul {
+    padding: 1%;
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
